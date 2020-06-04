@@ -1,0 +1,23 @@
+---
+layout: page
+title: My Projects
+subtitle: Here you can find a full list of my projects. Scroll down to explore.
+---
+
+<div class="container py-5">
+  {% for project in site.projects %}
+  <div class="card text-center">
+    <div class="card-header">
+      {{ project.language }}
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">{{ project.projectname }}</h5>
+      <p class="card-text">{{ project.info }}</p>
+      <a href="{{ project.url }}" class="btn btn-primary">Learn more</a>
+    </div>
+    <div class="card-footer text-muted">
+      {{ project.license }} | <a href="{{ project.docs }}">Visit Documentation</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
