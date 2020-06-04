@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"html {\n  scroll-behavior: smooth;\n}\n\n::selection {\n  color: white;\n  background-color: black;\n}\n\n.large-area {\n  min-height: 100vh;\n}\n\n.vertical-center {\n  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */\n  min-height: 100vh; /* These two lines are counted as one :-)       */\n\n  display: flex;\n  align-items: center;\n}\n\n.tenali-font {\n  font-family: 'Tenali Ramakrishna', sans-serif;\n}\n\n.bg-grey {\n  background-color: darkgray;\n}\n\n.text-shadow-bl {\n  text-shadow: 3px 3px steelblue;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACH,eAAe,EAAE,MAAM,GACxB;;EAEC,AAAF,SAAW,CAAC,EACV,KAAK,EAAE,KAAK,EACZ,gBAAgB,EAAE,KAAK,GACxB;;AAED,AAAA,WAAW,CAAC,EACV,UAAU,EAAE,KAAK,GAClB;;AAED,AAAA,gBAAgB,CAAC,EACf,UAAU,EAAE,IAAI,EAAG,kDAAkD,CACrE,UAAU,EAAE,KAAK,EAAE,kDAAkD,CAErE,OAAO,EAAE,IAAI,EACb,WAAW,EAAE,MAAM,GACpB;;AAED,AAAA,YAAY,CAAC,EACX,WAAW,EAAE,gCAAgC,GAC9C;;AAED,AAAA,QAAQ,CAAC,EACP,gBAAgB,EAAE,QAAQ,GAC3B;;AAED,AAAA,eAAe,CAAC,EACd,WAAW,EAAE,iBAAiB,GAC/B"
+}

@@ -1,0 +1,12 @@
+- name: Home
+  link: /#
+- name: Projects
+  link: /projects.html#
+- name: Wonderwords
+  link: /wonderwords.html#
+- name: AlgebraPy
+  link: https://AlgebraPy.github.io#
+- name: please-readme
+  link: /pleasereadme.html#
+- name: web development
+  link: /webdev.html#

@@ -1,0 +1,15 @@
+html { scroll-behavior: smooth; }
+
+::selection { color: white; background-color: black; }
+
+.large-area { min-height: 100vh; }
+
+.vertical-center { min-height: 100%; /* Fallback for browsers do NOT support vh unit */ min-height: 100vh; /* These two lines are counted as one :-)       */ display: flex; align-items: center; }
+
+.tenali-font { font-family: 'Tenali Ramakrishna', sans-serif; }
+
+.bg-grey { background-color: darkgray; }
+
+.text-shadow-bl { text-shadow: 3px 3px steelblue; }
+
+/*# sourceMappingURL=styles.css.map */
