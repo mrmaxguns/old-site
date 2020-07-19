@@ -1,8 +1,8 @@
 ---
 projectname: Web Development
 language: HTML, CSS, JS
-license: -
-docs: -
+license: None
+docs: None
 info: My web development skills
 ---
 
