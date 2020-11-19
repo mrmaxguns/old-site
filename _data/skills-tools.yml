@@ -1,0 +1,42 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Atom
+  weight: 5
+
+- name: Sphinx
+  weight: 5
+
+- name: Pip
+  weight: 5
+
+- name: Pytest
+  weight: 4
+
+- name: Git
+  weight: 4
+
+- name: Bash
+  weight: 4
+
+- name: Unittest
+  weight: 3
+
+- name: Flake8
+  weight: 2
+
+- name: Travis CI
+  weight: 1
+
+- name: Chrome DevTools
+  weight: 1
+
+- name: NPM
+  weight: 1
+
+- name: Pycharm
+  weight: 1

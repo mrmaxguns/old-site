@@ -1,0 +1,18 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Python
+  weight: 5
+
+- name: HTML5
+  weight: 4
+
+- name: CSS3
+  weight: 4
+
+- name: JavaScript
+  weight: 3
