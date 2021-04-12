@@ -45,5 +45,6 @@ some short <span style="color:black">**black**</span> segments.
 
 - [GitHub](https://github.com/mrmaxguns): I use this site primarily for code
   hosting.
-- [Email](mailto:mrmaxguns@gmail.com): Spam will be blocked and reported;
-  I am not interested in job offers at this time.
+- [Email](mailto:mrmaxguns@gmail.com): Feel free to email me for questions,
+comments, and concernts. Spam will be blocked and reported; I am not
+interested in job offers at this time.
