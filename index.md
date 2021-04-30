@@ -21,13 +21,34 @@ mathematics and physics. Outside I like to mountain bike. I am proficient with
 <span style="color:blue">**blue**</span> trails, and am moderately good at
 some short <span style="color:black">**black**</span> segments.
 
-## Skill level
+## Skills
 
-- Python programming 8/10
-- JavaScript programming 5/10
-- Godot and GDScript 5/10
-- Mountain biking 6/10
-- X-Plane flight sim. 3/10
+- Python
+  - Procedural and Object-oriented programming
+  - Backend development: Django, Flask
+  - Python package management
+  - Extensive knowledge of the standard library
+- JavaScript
+  - NodeJS and browser-based
+  - Frontend development with vanilla and a little bit of Vue
+- HTML/CSS
+  - Also have knowledge of the Bootstrap framework
+- Writing documentation (Mkdocs, Sphinx)
+- GNU/Linux operating systems, Bash, Zsh
+- Minimal experience with Godot
+- Am a member of the [@TheAlgorithms](https://github.com/TheAlgorithms) organization
+  and have contributed to the website and Python repo
+- The LaTeX typesetting system
+- Git and GitHub
+
+## Hobbies
+
+- Hiking
+- Mountain biking
+- Video games and simulations
+  - X-Plane flight simulator
+  - OpenTTD
+  - 0ad
 
 ## Programming and open source contributions
 
@@ -41,10 +62,14 @@ some short <span style="color:black">**black**</span> segments.
   journal made with flask.
 - Chatpad: A closed-source web chat application
 
+## What I'm learning
+
+- Currently, I'm learning the C programming language.
+
 ## Where you can find me
 
 - [GitHub](https://github.com/mrmaxguns): I use this site primarily for code
   hosting.
 - [Email](mailto:mrmaxguns@gmail.com): Feel free to email me for questions,
-comments, and concernts. Spam will be blocked and reported; I am not
-interested in job offers at this time.
+  comments, and concernts. Spam will be blocked and reported; I am not
+  interested in job offers at this time.
