@@ -17,11 +17,14 @@ software development. I have worked with Python, JavaScript, Godot (GDScript)
 and HTML/CSS. I'm also interested in aviation. I recently acquired
 [XPlane](https://x-plane.com), a flight simulator, which I recommend for anyone
 interested in flying. I also enjoy reading about science—specifically
-mathematics and physics. Outside I like to mountain bike. I am proficient with
-<span style="color:blue">**blue**</span> trails, and am moderately good at
-some short <span style="color:black">**black**</span> segments.
+mathematics and physics. Outside of those academic subjects, I like to mountain
+bike. I am proficient with <span style="color:blue">**blue**</span> trails, and
+am good at some short <span style="color:black">**black**</span> segments.
 
-## Skills
+## Skills & Experience
+
+Here's a section of the various skills that I have aquired while learning
+programming.
 
 - Python
   - Procedural and Object-oriented programming
@@ -32,23 +35,15 @@ some short <span style="color:black">**black**</span> segments.
   - NodeJS and browser-based
   - Frontend development with vanilla and a little bit of Vue
 - HTML/CSS
-  - Also have knowledge of the Bootstrap framework
-- Writing documentation (Mkdocs, Sphinx)
+  - I have also worked with the Bootstrap framework
+- Writing technical documentation with tools such as Mkdocs and Sphinx
 - GNU/Linux operating systems, Bash, Zsh
 - Minimal experience with Godot
 - Am a member of the [@TheAlgorithms](https://github.com/TheAlgorithms) organization
   and have contributed to the website and Python repo
 - The LaTeX typesetting system
 - Git and GitHub
-
-## Hobbies
-
-- Hiking
-- Mountain biking
-- Video games and simulations
-  - X-Plane flight simulator
-  - OpenTTD
-  - 0ad
+- Docker and docker-compose
 
 ## Programming and open source contributions
 
@@ -64,7 +59,16 @@ some short <span style="color:black">**black**</span> segments.
 
 ## What I'm learning
 
-- Currently, I'm learning the C programming language.
+Currently, I'm learning the C programming language.
+
+## Hobbies
+
+- Hiking
+- Mountain biking
+- Video games and simulations
+  - [X-Plane](https://x-plane.com) flight simulator
+  - [OpenTTD](https://www.openttd.org/)
+  - [0ad](https://play0ad.com/)
 
 ## Where you can find me
 
